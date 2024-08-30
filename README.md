@@ -12,7 +12,7 @@ ii) Song Features and Attributes-Based Recommendations: By analyzing various fea
 ## Technology Stack
 
 1) Streamlit: The framework used to create an interactive and user-friendly web interface for the recommendation system. 
-2) Amazon EC2: The application is deployed on an Amazon EC2 instance.
+2) Amazon EC2: Also used the Amazon EC2 instance to deploy this instance.
 
 ## Datasets used
 1) artist.csv: https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks/data?select=artists.csv 
